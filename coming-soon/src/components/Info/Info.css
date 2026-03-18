@@ -1,0 +1,23 @@
+.info-container {
+    margin-top: auto;
+    margin-bottom: 2rem;
+}
+
+.info-container h1 span {
+    font-weight: 300;
+    color: hsl(0, 36%, 70%);
+}
+
+.info-container h1 {
+    font-size: 5rem;
+    letter-spacing: 1.5rem;
+    color: hsl(0, 6%, 24%);
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+.info-container p {
+    font-size: 16px;
+    font-weight: 600;
+    color: hsl(0, 36%, 70%);
+}

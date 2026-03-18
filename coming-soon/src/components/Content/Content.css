@@ -1,0 +1,8 @@
+.content-containet {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 4rem 17%;
+    background-image: url("/bg-pattern.svg");
+    background-size: cover;
+}
